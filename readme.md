@@ -9,13 +9,21 @@
 *             Open the main folder
 *             click the .html file
 *
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{The code entirely runs on javascript, HTML and CSS, so no dependencies needed.}
+## BDD
+ ______________________________________
+| input  |       |       |      |      |
+|--------|-------|-------|------|------|
+|        |       |       |      |      |
+|        |       |       |      |      |
+|        |       |       |      |      |
+****************************************
 ## Known Bugs
 {}
 ## Technologies Used
-{I used Javascript for the back-end and some bit of HTML and CSS for the front-end. If you did something really cool using only HTML, point that out.}
+{I used Javascript for the back-end and some bit of HTML and CSS for the front-end.}
 ## Support and contact details
 {If there is any problem of the sort, or bugs in my program you can contact me at josehwilddog@gmail.com. Your contributions will be very helpful.}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*{MIT license}*
+Copyright (c) {2019} **{Joseph Gakunga}**
