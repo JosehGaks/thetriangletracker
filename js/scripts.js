@@ -13,6 +13,7 @@ function submit(){
      alert("scalene");
    }
 }
+
 else {
   alert("not a triangle");
 }
