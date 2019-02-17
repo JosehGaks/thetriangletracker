@@ -1,5 +1,5 @@
 function submit(){
-  var side1=parseInt(document.getElementById("firstside").value);
+  var side1=parseInt (document.getElementById("firstside").value);
   var side2=parseInt(document.getElementById("secondside").value);
   var side3=parseInt(document.getElementById("thirdside").value);
 
