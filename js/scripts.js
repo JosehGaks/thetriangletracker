@@ -8,14 +8,14 @@ function submit(){
      alert("The triangle you entered is\n\n.........\n..........\n.........\n..........\n.........\n equilateral");
       }
    else if (side1===side2 || side1===side3 || side2===side3) {
-     alert("Isosceles");}
+     alert("The triangle you entered is\n\n.........\n..........\n.........\n..........\n.........\n Isosceles");}
    else {
-     alert("scalene");
+     alert("The triangle you entered is\n\n.........\n..........\n.........\n..........\n.........\n scalene");
    }
 }
 
 else {
-  alert("not a triangle");
+  alert("oooops \n\n   :(  :(............\n\n\n\n\n\That's not a triangle!!!!!!");
 }
 
 }
