@@ -11,7 +11,7 @@
 *
 {The code entirely runs on javascript, HTML and CSS, so no dependencies needed.}
 ## BDD
-|----------------------------------------------------------------------------------|
+|                                                                                  |
 |Behavior                               |input Example         |output Example     |
 |---------------------------------------|:--------------------:|:-----------------:|
 |the triangle is valid or not           | 9,4,3                |        false      |     |                                       |                      |                   |
