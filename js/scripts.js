@@ -16,4 +16,5 @@ function submit(){
 else {
   alert("not a triangle");
 }
+
 }
