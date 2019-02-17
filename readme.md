@@ -11,7 +11,7 @@
 *
 {The code entirely runs on javascript, HTML and CSS, so no dependencies needed.}
 ## BDD
-|                                                                                  |
+____________________________________________________________________________________
 |Behavior                               |input Example         |output Example     |
 |---------------------------------------|:--------------------:|:-----------------:|
 |the triangle is valid or not           | 9,4,3                |        false      |     |                                       |                      |                   |
@@ -20,8 +20,7 @@
 |the triangle is isosceles              |    7,2,7             |         true      |
 |                                       |                      |                   |
 |the triangle is scalene                |   4,5,8              |         true      |
-------------------------------------------------------------------------------------
-## Known Bugs
+************************************************************************************
 {No known bugs}
 ## Technologies Used
 {I used Javascript for the back-end and some bit of HTML and CSS for the front-end.}
